@@ -1,0 +1,5 @@
+{
+  "name": "CollabEdit",
+  "description": "A real-time collaborative photo editor using Fabric.js and Socket.io.",
+  "requestFramePermissions": []
+}
