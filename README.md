@@ -35,4 +35,3 @@ CollabEdit is a high-performance, real-time collaborative image editor built wit
 
 ---
 
-Built with ❤️ using Google AI Studio.
